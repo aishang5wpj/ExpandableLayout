@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.xiaohongshu.demo4copy.ExpandableLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/expandableLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:expandableBody="@layout/expandable_body"
+    app:expandableHeader="@layout/expandable_header"
+    app:expandableParallax="0.7">
+
+</com.xiaohongshu.demo4copy.ExpandableLayout>

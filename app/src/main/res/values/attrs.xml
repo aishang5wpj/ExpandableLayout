@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ExpandableLayout">
+        <attr name="expandableHeader" format="reference"/>
+        <attr name="expandableBody" format="reference"/>
+        <attr name="expandableParallax" format="float"/>
+    </declare-styleable>
+
+</resources>

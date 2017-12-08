@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:fadeScrollbars="false"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:lineSpacingExtra="1dp"
+            android:onClick="textClick"
+            android:padding="10dp"
+            android:scrollbarFadeDuration="2000"
+            android:scrollbarStyle="insideOverlay"
+            android:scrollbars="vertical"
+            android:text="@string/android"
+            android:textAllCaps="false"/>
+    </ScrollView>
+
+</FrameLayout>
