@@ -1,5 +1,5 @@
 
-# 可折叠展开的自定义View(Kotlin)
+# 可折叠展开的自定义View(Kotlin)([apk下载](https://raw.githubusercontent.com/wiki/aishang5wpj/ExpandableLayout/app/app-release.apk))
 
 ## 效果图
 
